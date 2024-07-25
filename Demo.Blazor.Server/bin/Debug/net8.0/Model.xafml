@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems NavigationStyle="Accordion" />
+  <Options UIType="TabbedMDI" RestoreTabbedMdiLayout="False" ShowTabImage="True" />
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.3.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="QualityControlCriteria_DetailView" ImageName="New" />
+  </Views>
+</Application>

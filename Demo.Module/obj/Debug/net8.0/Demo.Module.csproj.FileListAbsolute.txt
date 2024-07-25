@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\Demo\Demo.Module\bin\Debug\net8.0\Demo.Module.deps.json
+C:\Users\pc\source\repos\Demo\Demo.Module\bin\Debug\net8.0\Demo.Module.dll
+C:\Users\pc\source\repos\Demo\Demo.Module\bin\Debug\net8.0\Demo.Module.pdb
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\Demo.Module.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\Demo.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\Demo.Module.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\Demo.Module.AssemblyInfo.cs
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\Demo.Module.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\Demo.Module.sourcelink.json
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\Demo.Module.dll
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\refint\Demo.Module.dll
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\Demo.Module.pdb
+C:\Users\pc\source\repos\Demo\Demo.Module\obj\Debug\net8.0\ref\Demo.Module.dll
